@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If you run into any errors PLEASE copy-paste them into an issue! Thanks!
+
 # MacroPad
 So you've ordered a chinese macro keypad and the software supplied doesn't make any sense to you? That was my problem as well...
 
