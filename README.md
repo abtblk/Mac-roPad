@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+> [!WARNING]
 > If you run into any errors PLEASE copy-paste them into an issue! Thanks!
 
 # MacroPad
